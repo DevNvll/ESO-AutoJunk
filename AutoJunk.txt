@@ -1,0 +1,21 @@
+## Title: AutoJunk
+## Description: Auto Mark Looted Items as Junk
+## Version: 1.0
+## APIVersion: 100024
+## SavedVariables: AUTOJUNK_CONFIG
+## OptionalDependsOn: LibAddonMenu-2.0
+
+## Libraries:
+Libs\LibStub\LibStub.lua
+libs\LibCustomTitles\LibCustomTitles.lua
+libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
+libs\LibAddonMenu-2.0\controls\panel.lua
+libs\LibAddonMenu-2.0\controls\button.lua
+libs\LibAddonMenu-2.0\controls\checkbox.lua
+libs\LibAddonMenu-2.0\controls\description.lua
+libs\LibAddonMenu-2.0\controls\dropdown.lua
+libs\LibAddonMenu-2.0\controls\header.lua
+libs\LibAddonMenu-2.0\controls\slider.lua
+Libs\LibAnimation-1.0\LibAnimation.lua
+
+AutoJunk.lua
