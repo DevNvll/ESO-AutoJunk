@@ -7,7 +7,6 @@
 
 ## Libraries:
 Libs\LibStub\LibStub.lua
-libs\LibCustomTitles\LibCustomTitles.lua
 libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
 libs\LibAddonMenu-2.0\controls\panel.lua
 libs\LibAddonMenu-2.0\controls\button.lua
@@ -16,6 +15,5 @@ libs\LibAddonMenu-2.0\controls\description.lua
 libs\LibAddonMenu-2.0\controls\dropdown.lua
 libs\LibAddonMenu-2.0\controls\header.lua
 libs\LibAddonMenu-2.0\controls\slider.lua
-Libs\LibAnimation-1.0\LibAnimation.lua
 
 AutoJunk.lua
